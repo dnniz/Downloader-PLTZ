@@ -1,0 +1,12 @@
+# Entorno virtual
+venv/
+__pycache__/
+*.pyc
+
+# Archivos de cookies y datos sensibles
+platzi.com_cookies.txt
+*.cookies.txt
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db 
